@@ -1,0 +1,81 @@
+.logo {
+    text-transform: uppercase;
+    font-family: sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.home-header {
+    background: #2196f3;
+    color: white;
+}
+
+.home-header .row {
+    padding-top: 5%;
+    padding-bottom: 15%;
+}
+
+.promo-text-box {
+    padding-top: 15%;
+}
+
+.promo-text-box h1{
+    margin-bottom: 25px;
+}
+
+.play-btn {
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+
+.lead-form {
+    width: 350px;
+    background: white;
+    margin: 10px auto;
+    border-radius: 3px;
+}
+
+.title-box {
+    background-color: #1065b6;
+    height: 160px;
+    padding: 30px 10px 0 10px;
+    border-bottom-left-radius: 200px 50px;
+    border-bottom-right-radius: 200px 50px;
+}
+
+form label {
+    float: left;
+    margin-left: 37px;
+    color: #999;
+    margin-top: 15px;
+    margin-bottom: 3px;
+    font-size: 0.875em;
+}
+
+.input-box {
+    width: 280px;
+    height: 40px;
+    padding: 0 5px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    color: #999;;
+}
+
+.input-box::placeholder {
+    color: #999;
+}
+
+.submit-btn {
+    width: 280px;
+    height: 60px;
+    color: white;
+    font-weight: 600;
+    background-color: #1065b6;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    cursor: pointer;
+    margin-bottom: -30px;
+}
